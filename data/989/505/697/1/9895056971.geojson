@@ -1,0 +1,76 @@
+{
+  "id": 9895056971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.74667,-15.97925,-5.74667,-15.97925",
+    "geom:latitude":-15.97925,
+    "geom:longitude":-5.74667,
+    "gn:population":174,
+    "iso:country":"SH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12718712: name \"Blue Hill\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12718712"
+        },
+        {
+            "citation":"GeoNames populated place 12718712: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12718712"
+        },
+        {
+            "citation":"GeoNames populated place 12718712: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12718712"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85677067 (Saint Helena), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632485,
+        85677067,
+        102193527,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12718712
+    },
+    "wof:country":"SH",
+    "wof:geomhash":"e18f6c7454fdf1d451c2cdc4251ba7b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":-1,
+            "dependency_id":85632485,
+            "empire_id":136253055,
+            "locality_id":9895056971,
+            "region_id":85677067
+        }
+    ],
+    "wof:id":9895056971,
+    "wof:lastmodified":1795735233,
+    "wof:name":"Blue Hill",
+    "wof:parent_id":85677067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.74667,
+    -15.97925,
+    -5.74667,
+    -15.97925
+],
+  "geometry": {"coordinates":[-5.74667,-15.97925],"type":"Point"}
+}

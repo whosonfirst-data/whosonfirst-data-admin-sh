@@ -1,0 +1,76 @@
+{
+  "id": 9895056976,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.37251,-7.94431,-14.37251,-7.94431",
+    "geom:latitude":-7.94431,
+    "geom:longitude":-14.37251,
+    "gn:population":170,
+    "iso:country":"SH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12718717: name \"Traveller's Hill Royal Air Force Base\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12718717"
+        },
+        {
+            "citation":"GeoNames populated place 12718717: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12718717"
+        },
+        {
+            "citation":"GeoNames populated place 12718717: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12718717"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85677063 (Ascension), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632485,
+        85677063,
+        102193527,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12718717
+    },
+    "wof:country":"SH",
+    "wof:geomhash":"55c0575c98549435e29150a00320cedb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":-1,
+            "dependency_id":85632485,
+            "empire_id":136253055,
+            "locality_id":9895056976,
+            "region_id":85677063
+        }
+    ],
+    "wof:id":9895056976,
+    "wof:lastmodified":1795735233,
+    "wof:name":"Traveller's Hill Royal Air Force Base",
+    "wof:parent_id":85677063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.37251,
+    -7.94431,
+    -14.37251,
+    -7.94431
+],
+  "geometry": {"coordinates":[-14.37251,-7.94431],"type":"Point"}
+}

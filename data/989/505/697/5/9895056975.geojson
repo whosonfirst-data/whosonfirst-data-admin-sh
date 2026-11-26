@@ -1,0 +1,76 @@
+{
+  "id": 9895056975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.35107,-7.94928,-14.35107,-7.94928",
+    "geom:latitude":-7.94928,
+    "geom:longitude":-14.35107,
+    "gn:population":44,
+    "iso:country":"SH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12718716: name \"The Residency\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12718716"
+        },
+        {
+            "citation":"GeoNames populated place 12718716: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12718716"
+        },
+        {
+            "citation":"GeoNames populated place 12718716: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12718716"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85677063 (Ascension), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632485,
+        85677063,
+        102193527,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12718716
+    },
+    "wof:country":"SH",
+    "wof:geomhash":"36f881d1e5989cddedfc91b237c2961d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":-1,
+            "dependency_id":85632485,
+            "empire_id":136253055,
+            "locality_id":9895056975,
+            "region_id":85677063
+        }
+    ],
+    "wof:id":9895056975,
+    "wof:lastmodified":1795735233,
+    "wof:name":"The Residency",
+    "wof:parent_id":85677063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.35107,
+    -7.94928,
+    -14.35107,
+    -7.94928
+],
+  "geometry": {"coordinates":[-14.35107,-7.94928],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895056972,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.40739,-7.95117,-14.40739,-7.95117",
+    "geom:latitude":-7.95117,
+    "geom:longitude":-14.40739,
+    "gn:population":210,
+    "iso:country":"SH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12718713: name \"Cat Hill US Military Base\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12718713"
+        },
+        {
+            "citation":"GeoNames populated place 12718713: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12718713"
+        },
+        {
+            "citation":"GeoNames populated place 12718713: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12718713"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85677063 (Ascension), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632485,
+        85677063,
+        102193527,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12718713
+    },
+    "wof:country":"SH",
+    "wof:geomhash":"4f28e08a46a6e7eec825ac1f26dec2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":-1,
+            "dependency_id":85632485,
+            "empire_id":136253055,
+            "locality_id":9895056972,
+            "region_id":85677063
+        }
+    ],
+    "wof:id":9895056972,
+    "wof:lastmodified":1795735233,
+    "wof:name":"Cat Hill US Military Base",
+    "wof:parent_id":85677063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.40739,
+    -7.95117,
+    -14.40739,
+    -7.95117
+],
+  "geometry": {"coordinates":[-14.40739,-7.95117],"type":"Point"}
+}
